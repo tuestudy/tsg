@@ -3,7 +3,7 @@ tsg
 
 Members
 --
-- [soharu](https://github.com/soharu)
+- [haru](https://github.com/soharu)
 - [falsetru](https://github.com/falsetru)
 - [dgoon](https://github.com/dgoon)
 - [realgsong](https://github.com/realgsong)
@@ -12,4 +12,4 @@ Members
 
 Awards
 --
-- 100th, 645th Place in IPSC 2013 (falsetru, dgoon, soharu / gsong)
+- 100th, 645th Place in IPSC 2013 (falsetru, dgoon, haru / gsong)
